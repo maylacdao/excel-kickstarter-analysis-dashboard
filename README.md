@@ -20,7 +20,7 @@ Concepts: CLEAN, TRIM, PROPER, UPPER, Filter, Paste Special Values
 
 ### Data Transformation
 
-Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multiple excel files, mapping values
+Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multiple excel files, mapping values, Pivot tables
 
 1. Using any of the lookup functions or INDEX MATCH, match the country code to the spelt out country name from another excel file (["Country_Code.xlsx"](analysis/Country_Code.xlsx)).
 
@@ -33,6 +33,8 @@ Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multipl
    b) Use IFERROR() formula. Tip: Nest the VLOOKUP function in the IFERROR function.
 
 3. Rename column, copy and paste special values (to hardcode it and to stop it linking it to another file. This makes the file lighter and faster to work with.)
+
+4.
 
 ## Contact
 
