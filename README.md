@@ -24,6 +24,10 @@ Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multipl
 
 1. Using any of the lookup functions or INDEX MATCH, match the country code to the spelt out country name from another excel file (["Country_Code.xlsx"](analysis/Country_Code.xlsx)). (=VLOOKUP(E2,'[Country_Code.xlsx]Country Codes'!$A:$B,2,FALSE))
 
+2. If you decided to keep the data with null values, there are two ways to deal with it:
+   a) Update the country code file by adding a new entry, Column A = N,0", Column B = Unknown;
+   b) Use IFERROR() formula. Tip: Nest the VLOOKUP function in the IFERROR function.
+
 ## Contact
 
 Email: [may.lacdao@gmail.com]
