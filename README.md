@@ -38,6 +38,10 @@ Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multipl
 
 5. Build dashboard/summary report in a new worksheet.
 
+### Sample Output
+
+![alt text](images/kickstarterdashboard.png)
+
 ## Contact
 
 Email: [may.lacdao@gmail.com]
