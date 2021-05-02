@@ -22,7 +22,7 @@ Concepts: CLEAN, TRIM, PROPER, UPPER, Filter, Paste Special Values
 
 Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multiple excel files, mapping values
 
-1. Using any of the lookup functions or INDEX MATCH, match the country code to the spelt out country name from another excel file (["Country_Code.xlsx"](analysis/Country_Code.xlsx)).
+1. Using any of the lookup functions or INDEX MATCH, match the country code to the spelt out country name from another excel file (["Country_Code.xlsx"](analysis/Country_Code.xlsx)). (=VLOOKUP(E2,'[Country_Code.xlsx]Country Codes'!$A:$B,2,FALSE))
 
 ## Contact
 
