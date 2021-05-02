@@ -32,6 +32,8 @@ Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multipl
    a) Update the country code file by adding a new entry, Column A = N,0", Column B = Unknown;
    b) Use IFERROR() formula. Tip: Nest the VLOOKUP function in the IFERROR function.
 
+3. Rename column, copy and paste special values (to hardcode it and to stop it linking it to another file. This makes the file lighter and faster to work with.)
+
 ## Contact
 
 Email: [may.lacdao@gmail.com]
