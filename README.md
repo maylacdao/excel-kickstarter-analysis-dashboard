@@ -26,6 +26,7 @@ Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multipl
 
 - =VLOOKUP(E2,'[Country_Code.xlsx]Country Codes'!$A:$B,2,FALSE)
 - =IFERROR(INDEX('[Country_Code.xlsx]Country Codes'!$B:$B,MATCH(E2,'[Country_Code.xlsx]Country Codes'!$A:$A,0)),"Unknown")
+- =XLOOKUP(E2,'[Country_Code.xlsx]Country Codes'!$A:$A,'[Country_Code.xlsx]Country Codes'!$B:$B,"Unknown")
 
 2. If you decided to keep the data with null values, there are two ways to deal with it:
    a) Update the country code file by adding a new entry, Column A = N,0", Column B = Unknown;
