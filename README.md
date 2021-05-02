@@ -20,7 +20,9 @@ Concepts: CLEAN, TRIM, PROPER, UPPER, Filter, Paste Special Values
 
 ### Data Transformation
 
-Concepts: Lookup Functions (VLOOKUP, XLOOKUP), Working with multiple excel files, mapping values
+Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multiple excel files, mapping values
+
+1.
 
 ## Contact
 
