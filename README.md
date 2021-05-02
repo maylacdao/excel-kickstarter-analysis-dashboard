@@ -22,7 +22,10 @@ Concepts: CLEAN, TRIM, PROPER, UPPER, Filter, Paste Special Values
 
 Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multiple excel files, mapping values
 
-1. Using any of the lookup functions or INDEX MATCH, match the country code to the spelt out country name from another excel file (["Country_Code.xlsx"](analysis/Country_Code.xlsx)). (=VLOOKUP(E2,'[Country_Code.xlsx]Country Codes'!$A:$B,2,FALSE))
+1. Using any of the lookup functions or INDEX MATCH, match the country code to the spelt out country name from another excel file (["Country_Code.xlsx"](analysis/Country_Code.xlsx)).
+
+- =VLOOKUP(E2,'[Country_Code.xlsx]Country Codes'!$A:$B,2,FALSE)
+- =IFERROR(INDEX('[Country_Code.xlsx]Country Codes'!$B:$B,MATCH(E2,'[Country_Code.xlsx]Country Codes'!$A:$A,0)),"Unknown")
 
 2. If you decided to keep the data with null values, there are two ways to deal with it:
    a) Update the country code file by adding a new entry, Column A = N,0", Column B = Unknown;
