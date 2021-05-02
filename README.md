@@ -11,6 +11,7 @@ Create an interactive dashboard showcasing results of an analysis of Kickstarter
 1. Convert file format from CSV to XLSX to (1) preserve integrity of original data source and (2) ensure that all changes are saved.
 2. Format for easier viewing (i.e. freezing header row, center-aligning, adjust column widths, etc.).
 3. Delete unnecessary data columns and rename columns, as needed.
+4. Format data types accordingly.
 
 ## Contact
 
