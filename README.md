@@ -1,4 +1,4 @@
-# Kickstarter Campaigns: Data analysis and Dashboard
+# Kickstarter Campaigns: Data analysis and Dashboard Creation with MS Excel
 
 Data: [Kickstarter Campaigns Data](data/Data_Kickstarter_Projects.csv)
 
