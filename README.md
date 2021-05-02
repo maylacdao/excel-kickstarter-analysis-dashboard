@@ -34,7 +34,7 @@ Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multipl
 
 3. Rename column, copy and paste special values (to hardcode it and to stop it linking it to another file. This makes the file lighter and faster to work with.)
 
-4. Create pivot tables.
+4. Create pivot tables, in accordance with how your dashboard is supposed to look like.
 
 ## Contact
 
