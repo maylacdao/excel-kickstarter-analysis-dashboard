@@ -2,6 +2,11 @@
 
 Data: [Kickstarter Campaigns Data](data/Data_Kickstarter_Projects.csv)
 
+### Dashboard
+
+![alt text](images/kickstarterdashboard.png)
+
+
 ## Objective
 
 Create an interactive dashboard showcasing results of an analysis of Kickstarter Campaigns.
@@ -38,9 +43,6 @@ Concepts: Lookup Functions (VLOOKUP, XLOOKUP), INDEX MATCH, Working with multipl
 
 5. Build dashboard/summary report in a new worksheet.
 
-### Sample Output
-
-![alt text](images/kickstarterdashboard.png)
 
 ## Contact
 
