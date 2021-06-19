@@ -4,7 +4,7 @@ Data: [Kickstarter Campaigns Data](data/Data_Kickstarter_Projects.csv)
 
 ### Dashboard
 
-![alt text](images/kickstarterdashboard.png)
+![alt text](images/analysis_dash_blackbg.png)
 
 
 ## Objective
